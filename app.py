@@ -71,7 +71,7 @@ st.markdown("""
         margin-top: 2rem;
     }
 </style>
-""", unsafe_with_html=True)
+""", unsafe_allow_html=True)
 
 # Application Header
 st.title("🌡️ Niagara Alarm & Logic Review Portal")
